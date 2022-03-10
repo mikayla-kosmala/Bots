@@ -4,13 +4,13 @@
 <!-- Twitter, Discord, Twitch, and Youtube Logo -->
 <br />
 <div align="center">
-  <img src="images/bot.jpg" alt="Logo" width="200" height="200">
+  <img src="../images/Discord.jpg" alt="Logo" width="200" height="200">
 
 
-<h3 align="center">Bots</h3>
+<h3 align="center">Discord Bot</h3>
 
   <p align="center">
-    Creating bots to do random tasks and have cool features. These bots shouldn't be just fun and random, but I wanted to also make sure that these bots will report some for of metrics to the mods, admins, etc.
+    Discord is the first bots I am going to make. I am always on discord and seeing all the mods that have been made already has been inspiring me to make my own.
 </br> 
 
 
@@ -27,7 +27,13 @@
 <!-- ABOUT THE REPO -->
 <h2 align="left">About The Repository</h2>
 <p align="left">
-  
+    There are a few bots that are going to be in here. 
+    <ul>
+    <li align="left">Sentiment and Topic Modeling Bot</li>
+        <li align="left">This bot uses sentiment analysis and topic modeling to send mods information about the server at the end of everyday</li>
+    <li align="left">Chatty Bot</li>
+        <li align="left">This bot uses LSTM to have a conversation with other members of the server when said hi to</li>
+    </ul>
 </p>
 
 <h3 align="left">Other things needed to take into consideration</h3>
