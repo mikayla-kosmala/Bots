@@ -4,13 +4,11 @@
 <br />
 <div align="center">
   <img src="/images/NLP.png" alt="Logo" width="200" height="200">
-
-
 <h3 align="center">Plot Bot</h3>
-
   <p align="center">
     Everyone is the main character of their own story. In discord servers there are a lot of people crossing paths and plot bot is here to help monitor those stories.
 </br> 
+
 
 <!-- ABOUT THE REPO -->
 <h2 align="left">About Plot Bot</h2>
