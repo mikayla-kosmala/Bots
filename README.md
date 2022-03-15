@@ -4,7 +4,7 @@
 <!-- Twitter, Discord, Twitch, and Youtube Logo -->
 <br />
 <div align="center">
-  <img src="images/bot.jpg" alt="Logo" width="200" height="200">
+  <img src="images/bot.png" alt="Logo" width="200" height="200">
 
 
 <h3 align="center">Bots</h3>
@@ -19,7 +19,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Last Commit][last-commit-shield]][last-commit-url]
+![Last Commit][last-commit-shield]
 <!--[![LinkedIn][linkedin-shield]][linkedin-url]-->
   </p>
 
@@ -33,7 +33,8 @@
 <h3 align="left">Other things needed to take into consideration</h3>
 <p align="left">
   If there are any errors or anything I missed or should include please raise an issue through github's issues.
-
+</p>
+<p align="left">
   If you would like to contribute to this repo please follow the steps on this <a href="https://www.dataschool.io/how-to-contribute-on-github/">webpage</a>. In the pull request please put the best way to communicate with you, so I can get in touch if I have questions.
 </p>
 
@@ -70,5 +71,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-shield]: https://img.shields.io/github/issues/mikayla-kosmala/bots.svg?style=for-the-badge
 [issues-url]: https://github.com/mikayla-kosmala/code-signal-solutions/issues
 [last-commit-shield]: https://img.shields.io/github/last-commit/mikayla-kosmala/bots.svg?style=for-the-badge
-[last-commit-url]:
-[product-screenshot]: images/screenshot.png
