@@ -1,10 +1,9 @@
-# Bots
 <div id="top"></div>
 
 <!-- Twitter, Discord, Twitch, and Youtube Logo -->
 <br />
 <div align="center">
-  <img src="../images/NLP.png" alt="Logo" width="200" height="200">
+  <img src="/images/NLP.png" alt="Logo" width="200" height="200">
 
 
 <h3 align="center">Plot Bot</h3>
@@ -16,12 +15,17 @@
 <!-- ABOUT THE REPO -->
 <h2 align="left">About Plot Bot</h2>
 <p align="left">
-    Plot Bot is here to help mods and others while also enhancing/embrassing the unique experiences that happen in your server. </br> 
-    <h3 align="left">There are some things that will happen when you invite Plot Bot to your server:</h3>
+    Plot Bot is here to help mods and others while also enhancing/embracing the unique experiences that happen in your server. There are some things that will happen when you invite Plot Bot to your server.
     <h3 align="left">Main features:</h3>
     <ul>
       <li align="left">Plot Summary</li>
-          <li align="left">This bot uses latest topic modeling technique to send mods information about the server at the end of everyday</li>
+      <ul>
+        <li align="left">This bot uses latest topic modeling technique to send mods information about the server at the end of everyday</li>
+      </ul>
+      <li align="left">Reporting</li>
+      <ul>
+        <li align="left">This bot uses latest topic modeling technique to send mods information about the server at the end of everyday</li>
+      </ul>
     </ul>
     <h3 align="left">Other features:</h3>
     <ul>
