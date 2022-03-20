@@ -9,6 +9,8 @@ Things that need to happen:
     Storing the information in a database
         What do we want to store: user, datetime, message, channel, link to message?
     Clean data of message
+    Save data in dataframe
+    At end of day then compute 
     Figure out how many topics need to be determined
     How to display to the mods    
 """
